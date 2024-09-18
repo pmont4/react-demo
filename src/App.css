@@ -1,0 +1,10 @@
+.usercontainer {
+    padding: 20px;
+    border: solid 0;
+    border-radius: 15px;
+    background-color: rgba(70, 74, 78, 0.3);
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    user-select: none;
+}
